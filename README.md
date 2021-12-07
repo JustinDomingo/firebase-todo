@@ -12,7 +12,7 @@ This is a simple To-Do Application that uses Firebase services as the backend an
 - Responsive design
 
 ## Technologies Used
-- #### Firebase (Authentication and Firestore
+- #### Firebase (Authentication and Firestore)
 - #### React.js
 - #### Bootstrap
 - #### JWT
